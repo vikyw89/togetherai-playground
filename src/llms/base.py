@@ -22,10 +22,15 @@ class BaseLLM:
         return await self._arun(text)
 
     @retry(stop=stop_after_attempt(3), wait=wait_incrementing(start=1, increment=1))
-    async def astream(self, text: str) -> AsyncGenerator[ChatCompletionChunk, None]:
+    async def astream(self, text: str) -> AsyncGenerator[str, None]:
         stream = await self._astream(text)
-
-        return stream
+        async for chunk in stream:
+            if chunk.choices is None:
+                continue
+            if chunk.choices[0].delta is None:
+                continue
+            chunk_message = chunk.choices[0].delta.content  # extract the message
+            yield chunk_message or ""
 
     @abstractmethod
     async def _arun(self, text: str) -> str:

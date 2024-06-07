@@ -12,6 +12,7 @@ python-dotenv = "^1.0.1"
 tenacity = "^8.3.0"
 
 
+ruff = "^0.4.8"
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
@@ -19,3 +20,4 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.poetry.scripts]
 start = "scripts.start:run"
+lint = "scripts.lint:run"
