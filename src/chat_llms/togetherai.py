@@ -1,5 +1,4 @@
 from openai import AsyncStream
-from src.prompts.system_messages import ASSISTANT
 from src.chat_llms.base import BaseChatLLM
 from src.configs import togetherai_client, structured_togetherai_client
 from src.chat_llms.base import (

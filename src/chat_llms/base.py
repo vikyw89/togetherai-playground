@@ -1,7 +1,6 @@
 from abc import abstractmethod
 from openai import AsyncStream
 from instructor.client import T
-from src.prompts.system_messages import ASSISTANT
 from openai.types.chat import ChatCompletionMessageParam, ChatCompletionMessage, ChatCompletionChunk
 
     
