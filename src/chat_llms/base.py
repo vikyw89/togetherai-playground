@@ -1,20 +1,19 @@
 from abc import abstractmethod
 from openai import AsyncStream
 from instructor.client import T
-from openai.types.chat import ChatCompletionMessageParam, ChatCompletionMessage, ChatCompletionChunk
+from openai.types.chat import (
+    ChatCompletionMessageParam,
+    ChatCompletionMessage,
+    ChatCompletionChunk,
+)
 
-    
+
 class BaseChatLLM:
     def __init__(
         self,
-        model: str,
-        verbose: bool = False,
         messages: list[ChatCompletionMessageParam] = [],
     ) -> None:
-        self.model = model
-        self.verbose = verbose
         self.messages = messages
-        self.tools = []
 
     @abstractmethod
     async def arun(self) -> ChatCompletionMessage:

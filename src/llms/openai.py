@@ -1,21 +1,28 @@
+import os
 from typing import AsyncGenerator
 from src.llms.base import BaseLLM, T
-from src.prompts.system_messages import ASSISTANT
-from src.configs import openai_client, structured_openai_client
+from openai import AsyncOpenAI
+import instructor
 
 
 class OpenaiLLM(BaseLLM):
-
     def __init__(
         self,
-        prompt: str = ASSISTANT,
         model: str = "gpt-3.5-turbo",
-        verbose: bool = False,
+        api_key: str = os.getenv("OPENAI_API_KEY", ""),
+        max_retries: int = 2,
+        *args,
+        **kwargs
     ) -> None:
-        super().__init__(model=model, prompt=prompt, verbose=verbose)
+        super(self.__class__, self).__init__(*args, **kwargs)
+        self.model = model
+        self.api_key = api_key
+        self.max_retries = max_retries
+        self.client = AsyncOpenAI(api_key=self.api_key, max_retries=max_retries)
+        self.structured_client = instructor.from_openai(self.client)
 
     async def arun(self, text: str) -> str:
-        response = await openai_client.chat.completions.create(
+        response = await self.client.chat.completions.create(
             model=self.model,
             messages=[{"role": "user", "content": text}],
         )
@@ -23,7 +30,7 @@ class OpenaiLLM(BaseLLM):
         return response.choices[0].message.content or ""
 
     async def astream(self, text: str) -> AsyncGenerator[str, None]:
-        stream = await openai_client.chat.completions.create(
+        stream = await self.client.chat.completions.create(
             model=self.model, messages=[{"role": "user", "content": text}], stream=True
         )
 
@@ -31,17 +38,22 @@ class OpenaiLLM(BaseLLM):
             delta_content = chunk.choices[0].delta.content or ""
             yield delta_content
 
-    async def astructured_extraction(self, text: str, output_class: type[T]) -> T:
-        response = await structured_openai_client.chat.completions.create(
+    async def astructured_extraction(
+        self,
+        text: str,
+        output_class: type[T],
+        prompt: str = "Let's think step by step. Given a text, extract structured data from it.",
+    ) -> T:
+        response = await self.structured_client.chat.completions.create(
             model=self.model,
             messages=[
                 {
                     "role": "system",
-                    "content": "Let's think step by step. Given a text, extract structured data from it.",
+                    "content": prompt,
                 },
                 {"role": "user", "content": text},
             ],
-            max_retries=3,
+            max_retries=self.max_retries,
             response_model=output_class,
         )
         return response

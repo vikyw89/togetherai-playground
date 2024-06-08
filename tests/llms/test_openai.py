@@ -9,7 +9,7 @@ def test_openai_arun():
         from src.llms.openai import OpenaiLLM
 
         llm = OpenaiLLM()
-        res = await llm.arun("What is the capital of France?")
+        res = await llm.arun(text="What is the capital of France?")
         assert res is not None
 
     asyncio.run(arun())

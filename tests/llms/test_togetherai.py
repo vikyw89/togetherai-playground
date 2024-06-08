@@ -6,7 +6,7 @@ def test_together_ai_arun():
     import asyncio
 
     async def arun():
-        from llms.togetherai import TogetherAILLM
+        from src.llms.togetherai import TogetherAILLM
 
         llm = TogetherAILLM()
         res = await llm.arun("What is the capital of France?")
@@ -18,7 +18,7 @@ def test_together_ai_stream():
     import asyncio
 
     async def astream():
-        from llms.togetherai import TogetherAILLM
+        from src.llms.togetherai import TogetherAILLM
 
         llm = TogetherAILLM()
         async for res in llm.astream("What is the capital of France?"):
@@ -31,7 +31,7 @@ def test_together_ai_structured_extraction():
     import asyncio
 
     async def astructured_extraction():
-        from llms.togetherai import TogetherAILLM
+        from src.llms.togetherai import TogetherAILLM
 
         llm = TogetherAILLM()
 
