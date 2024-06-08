@@ -1,4 +1,4 @@
-from src.llms.together_ai import TogetherAILLM
+from llms.togetherai import TogetherAILLM
 
 async def main() -> None:
     llm = TogetherAILLM()
