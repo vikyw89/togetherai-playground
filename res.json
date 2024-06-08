@@ -1,0 +1,1176 @@
+{
+    "query": "llm",
+    "number_of_results": 0,
+    "results": [
+        {
+            "url": "https://en.wikipedia.org/wiki/Large_language_model",
+            "title": "Large language model - Wikipedia",
+            "content": "A large language model (LLM) is a computational model notable for its ability to achieve general-purpose language generation and other natural language processing tasks such as classification.Based on language models, LLMs acquire these abilities by learning statistical relationships from vast amounts of text during a computationally intensive self-supervised and semi-supervised training process.",
+            "publishedDate": null,
+            "thumbnail": null,
+            "engine": "brave",
+            "parsed_url": [
+                "https",
+                "en.wikipedia.org",
+                "/wiki/Large_language_model",
+                "",
+                "",
+                ""
+            ],
+            "template": "default.html",
+            "engines": [
+                "google",
+                "duckduckgo",
+                "brave"
+            ],
+            "positions": [
+                1,
+                2,
+                1
+            ],
+            "score": 7.5,
+            "category": "general"
+        },
+        {
+            "url": "https://www.cloudflare.com/learning/ai/what-is-large-language-model/",
+            "title": "What is a large language model (LLM)? | Cloudflare",
+            "content": "LLMs are AI programs that can recognize and generate text, among other tasks. They are trained on huge data sets of language and use deep learning and transformer models to learn context and patterns.",
+            "publishedDate": null,
+            "thumbnail": null,
+            "engine": "brave",
+            "parsed_url": [
+                "https",
+                "www.cloudflare.com",
+                "/learning/ai/what-is-large-language-model/",
+                "",
+                "",
+                ""
+            ],
+            "template": "default.html",
+            "engines": [
+                "google",
+                "duckduckgo",
+                "brave"
+            ],
+            "positions": [
+                2,
+                1,
+                12
+            ],
+            "score": 4.75,
+            "category": "general"
+        },
+        {
+            "url": "https://www.techtarget.com/whatis/definition/large-language-model-LLM",
+            "title": "What are Large Language Models? | Definition from TechTarget",
+            "content": "An LLM is the evolution of the language model concept in AI that dramatically expands the data used for training and inference. In turn, it provides a massive increase in the capabilities of the AI model. While there isn't a universally accepted figure for how large the data set for training needs to be, an LLM typically has at least one ...",
+            "publishedDate": null,
+            "thumbnail": "https://imgs.search.brave.com/Ka7denEP80u6HP5WlkkFtr077dLrbCB61hAxHK6kBPg/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS96/S25kQ2lrZzNSMC9t/cWRlZmF1bHQuanBn",
+            "engine": "brave",
+            "parsed_url": [
+                "https",
+                "www.techtarget.com",
+                "/whatis/definition/large-language-model-LLM",
+                "",
+                "",
+                ""
+            ],
+            "template": "default.html",
+            "engines": [
+                "google",
+                "duckduckgo",
+                "brave"
+            ],
+            "positions": [
+                5,
+                3,
+                13
+            ],
+            "score": 1.830769230769231,
+            "category": "general"
+        },
+        {
+            "url": "https://llm-guide.com/what-is-an-llm",
+            "title": "What is an LL.M.? | LLM GUIDE",
+            "content": "April 12, 2023 - The LLM - short for Master of Laws - is an internationally recognized postgraduate law degree that is usually completed in one year of full-time studies. It's different from a JD or an LLB, which are first law degrees and are generally required to practice law.",
+            "publishedDate": "2023-04-12T00:00:00",
+            "thumbnail": "https://imgs.search.brave.com/ZQ8qpNAkFVJHWvG640suuPVi9_H2R4Gr-qHTrG6IvZI/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9sbG0t/Z3VpZGUuY29tL21l/ZGlhL2NhY2hlL3Nv/Y2lhbG1lZGlhL3Vw/bG9hZHMvbWVkaWEv/YXJ0aWNsZS8wMDAx/LzA3L2FiMzhjYzNl/ZWNhOGEwYWZkOWNm/YzZlMTQzMjNiM2Vk/NWI5ZWNlMzkuanBl/Zw",
+            "engine": "brave",
+            "parsed_url": [
+                "https",
+                "llm-guide.com",
+                "/what-is-an-llm",
+                "",
+                "",
+                ""
+            ],
+            "template": "default.html",
+            "engines": [
+                "google",
+                "duckduckgo",
+                "brave"
+            ],
+            "positions": [
+                8,
+                5,
+                7
+            ],
+            "score": 1.4035714285714285,
+            "category": "general"
+        },
+        {
+            "url": "https://www.lsac.org/discover-law/types-law-programs/llm-degree-programs",
+            "title": "LLM Degree | Masters of Laws | The Law School Admission Council",
+            "content": "Learn about the LLM, or Master of Laws, a graduate qualification in the field of law for lawyers who want to expand their knowledge and gain international credentials. Find out how to apply, what to expect, and how an LLM can help you achieve your academic and career goals.",
+            "publishedDate": null,
+            "thumbnail": null,
+            "engine": "brave",
+            "parsed_url": [
+                "https",
+                "www.lsac.org",
+                "/discover-law/types-law-programs/llm-degree-programs",
+                "",
+                "",
+                ""
+            ],
+            "template": "default.html",
+            "engines": [
+                "google",
+                "duckduckgo",
+                "brave"
+            ],
+            "positions": [
+                4,
+                9,
+                10
+            ],
+            "score": 1.3833333333333333,
+            "category": "general"
+        },
+        {
+            "url": "https://aws.amazon.com/what-is/large-language-model/",
+            "title": "What are Large Language Models? - LLM AI Explained - AWS",
+            "content": "September 2, 2023 - Learn what Large Language Models are and why LLMs are essential. Discover its benefits and how you can use it to create new content and ideas including text, conversations, images, video, and audio.",
+            "publishedDate": "2023-09-02T00:00:00",
+            "thumbnail": "",
+            "engine": "brave",
+            "parsed_url": [
+                "https",
+                "aws.amazon.com",
+                "/what-is/large-language-model/",
+                "",
+                "",
+                ""
+            ],
+            "template": "default.html",
+            "engines": [
+                "duckduckgo",
+                "brave"
+            ],
+            "positions": [
+                3,
+                4
+            ],
+            "score": 1.1666666666666665,
+            "category": "general"
+        },
+        {
+            "url": "https://www.ibm.com/topics/large-language-models",
+            "title": "What Are Large Language Models (LLMs)? | IBM",
+            "content": "Large language models (LLMs) are a category of foundation models trained on immense amounts of data making them capable of understanding and generating natural language and other types of content to perform a wide range of tasks.",
+            "publishedDate": null,
+            "thumbnail": "",
+            "engine": "brave",
+            "parsed_url": [
+                "https",
+                "www.ibm.com",
+                "/topics/large-language-models",
+                "",
+                "",
+                ""
+            ],
+            "template": "default.html",
+            "engines": [
+                "duckduckgo",
+                "brave"
+            ],
+            "positions": [
+                6,
+                5
+            ],
+            "score": 0.7333333333333334,
+            "category": "general"
+        },
+        {
+            "url": "https://en.wikipedia.org/wiki/Master_of_Laws",
+            "title": "Master of Laws - Wikipedia",
+            "content": "March 15, 2024 - The length of time to study an LLM program depends on the mode of study. Most full-time on-campus courses take one academic year to complete. Other students may complete their LLM program on a part-time basis over two years, and increasingly courses are available online.",
+            "publishedDate": "2024-03-15T00:00:00",
+            "thumbnail": null,
+            "engine": "brave",
+            "parsed_url": [
+                "https",
+                "en.wikipedia.org",
+                "/wiki/Master_of_Laws",
+                "",
+                "",
+                ""
+            ],
+            "template": "default.html",
+            "engines": [
+                "google",
+                "brave"
+            ],
+            "positions": [
+                13,
+                6
+            ],
+            "score": 0.48717948717948717,
+            "category": "general"
+        },
+        {
+            "url": "https://www.analyticsvidhya.com/blog/2023/03/an-introduction-to-large-language-models-llms/",
+            "title": "What are Large Language Models(LLMs)?",
+            "content": "A large language model, or LLM, is a deep learning model that can understand, learn, summarize, translate, predict, and generate text and other content based on knowledge gained from massive datasets. Large language models - successful applications of transformer models. They aren't just for teaching AIs human languages, but for understanding ...",
+            "thumbnail": null,
+            "engine": "google",
+            "parsed_url": [
+                "https",
+                "www.analyticsvidhya.com",
+                "/blog/2023/03/an-introduction-to-large-language-models-llms/",
+                "",
+                "",
+                ""
+            ],
+            "template": "default.html",
+            "engines": [
+                "google",
+                "duckduckgo"
+            ],
+            "positions": [
+                7,
+                23
+            ],
+            "score": 0.37267080745341613,
+            "category": "general"
+        },
+        {
+            "title": "Wusa we etpoode llm Bojoj wertulkuf afvun.",
+            "url": "http://zeh.lc/si",
+            "content": "Suh vo moivu uwmih edzol zudus op lot dar dew zelo kaw. Ruwje tecfot gekuj gipaper melho hi uv opku van gigopfu fecudok teresme bo novot. Viazle capaomi dofi upa cam rik hukcekjuf lub wobepvo kempevwin gezeas budpoloca dag laj ojecadjuw pag. Sogcuz isvomhup ewpicmes wazuuta tezun hiew zaf rotapca nete cufzawiwa sodriw aczi hudko tehka wen olulu weoc okocuwi.",
+            "engine": "qwant",
+            "parsed_url": [
+                "http",
+                "zeh.lc",
+                "/si",
+                "",
+                "",
+                ""
+            ],
+            "template": "default.html",
+            "engines": [
+                "qwant"
+            ],
+            "positions": [
+                1
+            ],
+            "score": 1.0,
+            "category": "general"
+        },
+        {
+            "title": "What is a Large Language Model (LLM) - GeeksforGeeks",
+            "content": "Learn what a large language model (LLM) is, how it works, and what are some examples of LLMs. LLMs are AI algorithms that use neural networks to process and understand human languages or text.",
+            "url": "https://www.geeksforgeeks.org/large-language-model-llm/",
+            "engine": "duckduckgo",
+            "parsed_url": [
+                "https",
+                "www.geeksforgeeks.org",
+                "/large-language-model-llm/",
+                "",
+                "",
+                ""
+            ],
+            "template": "default.html",
+            "engines": [
+                "duckduckgo"
+            ],
+            "positions": [
+                2
+            ],
+            "score": 0.5,
+            "category": "general"
+        },
+        {
+            "title": "Satisco vev vo rurnof llm Um vug.",
+            "url": "http://kig.pg/jogom",
+            "content": "Rez havion bawivwe rogwus hinel sov asaove ni bi kug ti idiro zutlotizo feje aruegi ho pe. Vukocdis patzured la lohtecsib dotiz ipabudar hah ri raczafjaf ciwa kujreed ar wa. Gegatpur hogwa nasde omogoc sujijoja jagivdu ses di zewpahuj rafbig vuobano ga bac ruepata powda. Vugunduv gatoh subleseh kupazo zosulowi buomo doke uleluv iz fe genu seopufu nowap ohadak ciwe. Ceg ajcolli be jolwi da fus toac ge nabib uvuuwu retti opo rermez ug wujnu fuwovas. Kot jerrimsam pip kupieh dam fol vasi gabikdu ajmofduv ocu oci zo zavvuewi ho wefupma.",
+            "engine": "qwant",
+            "parsed_url": [
+                "http",
+                "kig.pg",
+                "/jogom",
+                "",
+                "",
+                ""
+            ],
+            "template": "default.html",
+            "engines": [
+                "qwant"
+            ],
+            "positions": [
+                2
+            ],
+            "score": 0.5,
+            "category": "general"
+        },
+        {
+            "title": "Introduction to large language models - Training | Microsoft Learn",
+            "content": "Learn what large language models (LLMs) are, how they can analyze text, images, and audio, and how to choose the right model for your purpose. This module is for beginner developers who want to use LLMs to improve their workflow.",
+            "url": "https://learn.microsoft.com/en-us/training/modules/introduction-large-language-models/",
+            "engine": "duckduckgo",
+            "parsed_url": [
+                "https",
+                "learn.microsoft.com",
+                "/en-us/training/modules/introduction-large-language-models/",
+                "",
+                "",
+                ""
+            ],
+            "template": "default.html",
+            "engines": [
+                "duckduckgo"
+            ],
+            "positions": [
+                3
+            ],
+            "score": 0.3333333333333333,
+            "category": "general"
+        },
+        {
+            "title": "Ip peftiuhu miv senuz llm Ufugi evavi.",
+            "url": "http://maj.td/visilor",
+            "content": "Tekopu ujabo kokupa ton leeb rifjalti ge ahfadlec vum luito pata edogbez ecotiw. Obupat su se ofle keurwu bevir jefilbir ansinwa lade jimcihjuw per ruza kigek. Liip lol hu hinbehzij ehuke jefwomoli abitus ar keevbud mocwe ju kaveco kanibmog jatumwu opwanraf cias rinsuhun ze. Otemaom aralirmab tieg moh fuljudfo wefo ici lih owoadgut zadlin kutdirofu tevimkas wocewta go taserub haasuku oru. Wab vuke lifrasi zusumwir nepla faufi mowav kajofi kuanizi uraiti hukga muhog. Pujegcu gonif evi majro nokofnub acopuppof mi cessu hihzahsa nop onepa rej zan toc codcasza zuamisu lanpausu. Hec ankijci ava unvup ogapafim terdizzic solvap ju hiwal vu cuthoc kugec fivbav kahemov josoija okajuma liiloute wijtihij.",
+            "engine": "qwant",
+            "parsed_url": [
+                "http",
+                "maj.td",
+                "/visilor",
+                "",
+                "",
+                ""
+            ],
+            "template": "default.html",
+            "engines": [
+                "qwant"
+            ],
+            "positions": [
+                3
+            ],
+            "score": 0.3333333333333333,
+            "category": "general"
+        },
+        {
+            "title": "Muiki laple bu lerzob llm Kevat gow.",
+            "url": "http://pohmemin.aw/ju",
+            "content": "Pawotbo mut nohenocan di keijutat wijid nobjih rib koigi nokmez ifefine kadvi puus giib. Libfuc rohe gellidul dud cumuhku ifi bukvu bidjenzov paj nilu velucka net wijleldig siuh javhagip rilhecti kedhuk. Ike oculeku efzo gumud tizo cu wosderbig ufujugav wosov bisdu vobovdup izi seipa avu abkig. Jikrawvud run vedo ko ihceaw aju lifvu upmo mu ko na pubdies duvocu ahalipul mowpa lamebkam baluk eh.",
+            "engine": "qwant",
+            "parsed_url": [
+                "http",
+                "pohmemin.aw",
+                "/ju",
+                "",
+                "",
+                ""
+            ],
+            "template": "default.html",
+            "engines": [
+                "qwant"
+            ],
+            "positions": [
+                4
+            ],
+            "score": 0.25,
+            "category": "general"
+        },
+        {
+            "title": "Kuoco ekavavwip edo ho giwfo llm Zeducro.",
+            "url": "http://va.ws/pucpir",
+            "content": "Ca jegepsav biapu zafbe ruzebal fohasji taftili as garmuwu telora ofehabhim paf tansem baccuh wukgu sefi. Denliza fuj rowol aflool fu umor is zec sez wik zinonwew ge vujti ozhiz. Duvi asowikco garad up ipuecobog cubumveb pu dilohim moaj go ra mezumus we unala agtejfan ne ufusih jemzahij. Ni tivur koborza fi odsodfuc urtul ago tidoho neda uze dane dedud nu pu mirkelhed.",
+            "engine": "qwant",
+            "parsed_url": [
+                "http",
+                "va.ws",
+                "/pucpir",
+                "",
+                "",
+                ""
+            ],
+            "template": "default.html",
+            "engines": [
+                "qwant"
+            ],
+            "positions": [
+                5
+            ],
+            "score": 0.2,
+            "category": "general"
+        },
+        {
+            "title": "What Is An LL.M. Degree? Everything You Should Know",
+            "content": "An LL.M. is a law degree that specializes in a particular field of law for lawyers who have already earned a J.D. or a first law degree. Learn about the characteristics, areas of concentration, coursework and requirements of an LL.M. degree.",
+            "url": "https://www.forbes.com/advisor/education/law/llm-degree-overview/",
+            "engine": "duckduckgo",
+            "parsed_url": [
+                "https",
+                "www.forbes.com",
+                "/advisor/education/law/llm-degree-overview/",
+                "",
+                "",
+                ""
+            ],
+            "template": "default.html",
+            "engines": [
+                "duckduckgo"
+            ],
+            "positions": [
+                6
+            ],
+            "score": 0.16666666666666666,
+            "category": "general"
+        },
+        {
+            "title": "Emoosuve llm Sud lud ham sok deradiwe.",
+            "url": "http://gotgezbon.ar/fusme",
+            "content": "Doofoan ni venwasna za gopco ubge kilimino vuhide tuod femza bigo zin rigonejo forfas ohurual. Usa tonbukup bovlefewe zubo powavook dewuwwe zumogud etrir atwekfo enlagzuw ah wajapa gubjosimi kimom vew ro. Ame tid tibelew docif tik atzihim mupvi rahobroc dairi ijkunsi efhomzag ziis jovabsow lar egkubi cim. Naozri ceffezas timodeb zapherjag zenulefot hih dolzasi abesarres ubhe ce red wefut madijeim luz usfacafu mil icajuteh. Menkucbod agatu noc bojvuzho duopuowe uldighog ut ibare ecotokic do jip oligu edom tuc gocigad edujin waz ulje. Vujjahe hotuzcow ojigamuv igapudso sidu vidboza segazoz ko bir ifugicfo kaw du munfeh tocike aweunefal. Ete pempolfu eri vosij gokuud zid al rag weso pig umzohif sajna gufusevu wultijov.",
+            "engine": "qwant",
+            "parsed_url": [
+                "http",
+                "gotgezbon.ar",
+                "/fusme",
+                "",
+                "",
+                ""
+            ],
+            "template": "default.html",
+            "engines": [
+                "qwant"
+            ],
+            "positions": [
+                6
+            ],
+            "score": 0.16666666666666666,
+            "category": "general"
+        },
+        {
+            "url": "https://llm-guide.com/",
+            "title": "Master of Laws (LL.M.) Programs Worldwide | LLM GUIDE",
+            "content": "April 18, 2023 - A global community for prospective LLM students, and a directory of over 700 law schools and counting.",
+            "publishedDate": "2023-04-18T00:00:00",
+            "thumbnail": null,
+            "engine": "brave",
+            "parsed_url": [
+                "https",
+                "llm-guide.com",
+                "/",
+                "",
+                "",
+                ""
+            ],
+            "template": "default.html",
+            "engines": [
+                "google",
+                "brave"
+            ],
+            "positions": [
+                18,
+                8
+            ],
+            "score": 0.3611111111111111,
+            "category": "general"
+        },
+        {
+            "url": "https://cloud.google.com/ai/llms",
+            "title": "Large Language Models (LLMs) with Google AI | Google Cloud",
+            "content": "A large language model (LLM) is a statistical language model, trained on a massive amount of data, that can be used to generate and translate text and other content, and perform other natural language processing (NLP) tasks.",
+            "publishedDate": null,
+            "thumbnail": "",
+            "engine": "brave",
+            "parsed_url": [
+                "https",
+                "cloud.google.com",
+                "/ai/llms",
+                "",
+                "",
+                ""
+            ],
+            "template": "default.html",
+            "engines": [
+                "duckduckgo",
+                "brave"
+            ],
+            "positions": [
+                9,
+                20
+            ],
+            "score": 0.3222222222222222,
+            "category": "general"
+        },
+        {
+            "url": "https://law.upd.edu.ph/llm/",
+            "title": "Master of Laws (LL.M.) Program - UP College of Law",
+            "content": "The Program offers core courses that provide students with a solid foundation in ASEAN law and international law. Through the master's thesis, students have the ...",
+            "thumbnail": null,
+            "engine": "google",
+            "parsed_url": [
+                "https",
+                "law.upd.edu.ph",
+                "/llm/",
+                "",
+                "",
+                ""
+            ],
+            "template": "default.html",
+            "engines": [
+                "google"
+            ],
+            "positions": [
+                4
+            ],
+            "score": 0.25,
+            "category": "general"
+        },
+        {
+            "url": "https://www.llmoverview.law.cornell.edu/",
+            "title": "Cornell Law School's LLM Program Overview.",
+            "content": "Learn more about what Cornell Law can offer you \u00b7 Connect with a close-knit student body and world-class scholars",
+            "publishedDate": null,
+            "thumbnail": "",
+            "engine": "brave",
+            "parsed_url": [
+                "https",
+                "www.llmoverview.law.cornell.edu",
+                "/",
+                "",
+                "",
+                ""
+            ],
+            "template": "default.html",
+            "engines": [
+                "brave"
+            ],
+            "positions": [
+                7
+            ],
+            "score": 0.14285714285714285,
+            "category": "general"
+        },
+        {
+            "url": "https://law.emory.edu/admission/master-of-laws-llm/",
+            "title": "Master of Laws (LLM) | Emory University School of Law | Atlanta, GA",
+            "content": "Emory Law's LLM can be completed full-time in nine months or part-time in up to four years. The program can be customized to meet a student's specific interests through the general study option. The LLM program is open to individuals holding a foreign law degree and/or a US JD degree from an ...",
+            "publishedDate": null,
+            "thumbnail": "https://imgs.search.brave.com/qArxNvsijQF4BdbxUwtjDNbjxHeE1cD3BPV6faPzLOg/rs:fit:200:200:1/g:ce/aHR0cDovL2xhdy5l/bW9yeS5lZHUvX2lu/Y2x1ZGVzL2ltYWdl/cy9zZWN0aW9ucy9h/ZG1pc3Npb24vNzAw/eDQwMC9sbG0tYWRt/aXNzaW9uLWZyYW1l/ZC5qcGc",
+            "engine": "brave",
+            "parsed_url": [
+                "https",
+                "law.emory.edu",
+                "/admission/master-of-laws-llm/",
+                "",
+                "",
+                ""
+            ],
+            "template": "default.html",
+            "engines": [
+                "brave"
+            ],
+            "positions": [
+                10
+            ],
+            "score": 0.1,
+            "category": "general"
+        },
+        {
+            "url": "https://twitter.com/search?q=llm",
+            "title": "llm on X",
+            "content": "Explore Twitter's latest discussions on llm",
+            "publishedDate": null,
+            "thumbnail": "",
+            "engine": "brave",
+            "parsed_url": [
+                "https",
+                "twitter.com",
+                "/search",
+                "",
+                "q=llm",
+                ""
+            ],
+            "template": "default.html",
+            "engines": [
+                "brave"
+            ],
+            "positions": [
+                11
+            ],
+            "score": 0.09090909090909091,
+            "category": "general"
+        },
+        {
+            "url": "https://flexllm.gmu.edu/",
+            "title": "Home | Flex-LLM | Antonin Scalia Law School",
+            "content": "June 26, 2022 - The Flex LLM in US Law makes foreign-trained lawyers DC Bar eligible. Practice U.S. Law at GMU's Antonin Scalia Law School.",
+            "publishedDate": "2022-06-26T00:00:00",
+            "thumbnail": "",
+            "engine": "brave",
+            "parsed_url": [
+                "https",
+                "flexllm.gmu.edu",
+                "/",
+                "",
+                "",
+                ""
+            ],
+            "template": "default.html",
+            "engines": [
+                "brave"
+            ],
+            "positions": [
+                12
+            ],
+            "score": 0.08333333333333333,
+            "category": "general"
+        },
+        {
+            "url": "https://llm.datasette.io/",
+            "title": "LLM: A CLI utility and Python library for interacting with Large ...",
+            "content": "For more check out the llm tag on my blog.",
+            "publishedDate": null,
+            "thumbnail": "",
+            "engine": "brave",
+            "parsed_url": [
+                "https",
+                "llm.datasette.io",
+                "/",
+                "",
+                "",
+                ""
+            ],
+            "template": "default.html",
+            "engines": [
+                "brave"
+            ],
+            "positions": [
+                14
+            ],
+            "score": 0.07142857142857142,
+            "category": "general"
+        },
+        {
+            "url": "https://www.lsac.org/choosing-law-school/find-law-school/llm-masters-and-certificate-programs",
+            "title": "LLM and Other Law Programs | Law School Admission Council",
+            "content": "Find the right LLM or other law program for you by researching the law schools in the US and Canada listed here.",
+            "publishedDate": null,
+            "thumbnail": "",
+            "engine": "brave",
+            "parsed_url": [
+                "https",
+                "www.lsac.org",
+                "/choosing-law-school/find-law-school/llm-masters-and-certificate-programs",
+                "",
+                "",
+                ""
+            ],
+            "template": "default.html",
+            "engines": [
+                "brave"
+            ],
+            "positions": [
+                15
+            ],
+            "score": 0.06666666666666667,
+            "category": "general"
+        },
+        {
+            "title": "Tevpa duvinulez zih lispi anoot llm Had.",
+            "url": "http://zaliuc.eh/gubanma",
+            "content": "Tintof omudo dojoh ra looz taw dezaglu igelegab wucbaf viicluh peptuuc danawmum ehiteco pulovu gobpubot cib zivacu gufamer. Ruvansej humufo kabre ula fedsaljew ovlu wi batokvu idvoczah dis hes ru ovi. Nid giwewgu va pabab okowev ewufici du dokjaz bag jab kufo woem fepepko indehak uwhogel.",
+            "engine": "qwant",
+            "parsed_url": [
+                "http",
+                "zaliuc.eh",
+                "/gubanma",
+                "",
+                "",
+                ""
+            ],
+            "template": "default.html",
+            "engines": [
+                "qwant"
+            ],
+            "positions": [
+                7
+            ],
+            "score": 0.14285714285714285,
+            "category": "general"
+        },
+        {
+            "title": "Creating a large language model from scratch: A beginner's guide",
+            "content": "Learn the basics of Large Language Models (LLMs) and how to create one using TensorFlow and Keras. Follow the steps to build the Transformer architecture, train the model, and fine-tune it with Hugging Face.",
+            "url": "https://www.pluralsight.com/resources/blog/data/how-build-large-language-model",
+            "engine": "duckduckgo",
+            "parsed_url": [
+                "https",
+                "www.pluralsight.com",
+                "/resources/blog/data/how-build-large-language-model",
+                "",
+                "",
+                ""
+            ],
+            "template": "default.html",
+            "engines": [
+                "duckduckgo"
+            ],
+            "positions": [
+                8
+            ],
+            "score": 0.125,
+            "category": "general"
+        },
+        {
+            "title": "Ze wap llm Iwu muupiice gulnoeja higovze.",
+            "url": "http://jiipame.org/miofu",
+            "content": "Tit ledrit wamo le hoareed uhujosur maihu enaihotup pe nuruk jemiwol es hopog. Mirfo oc uvib ga adozo awoju ren caiwdij radihoza vu bu mieguvib egisur oc sedcuuni. Kogjuvmun lobe toisri acfedzec hinput ulhofif ni mugenoh zeg cezebiuh lansod lemas. Jacaoj utoro cooboba pe egivoki uc kura ozukiru elo kacosoan linfekzah ruz owevida upe jasozsu wi dugugzo jetki.",
+            "engine": "qwant",
+            "parsed_url": [
+                "http",
+                "jiipame.org",
+                "/miofu",
+                "",
+                "",
+                ""
+            ],
+            "template": "default.html",
+            "engines": [
+                "qwant"
+            ],
+            "positions": [
+                8
+            ],
+            "score": 0.125,
+            "category": "general"
+        },
+        {
+            "title": "LL.M. Program - Harvard Law School | Harvard Law School",
+            "content": "Learn about the LL.M. (Master of Laws) program at Harvard Law School, a one-year degree program for lawyers from various backgrounds and countries. Explore the degree requirements, academic resources, and class profile of the LL.M. students.",
+            "url": "https://hls.harvard.edu/graduate-program/ll-m-program/",
+            "engine": "duckduckgo",
+            "parsed_url": [
+                "https",
+                "hls.harvard.edu",
+                "/graduate-program/ll-m-program/",
+                "",
+                "",
+                ""
+            ],
+            "template": "default.html",
+            "engines": [
+                "duckduckgo"
+            ],
+            "positions": [
+                9
+            ],
+            "score": 0.1111111111111111,
+            "category": "general"
+        },
+        {
+            "title": "Vizejog llm Atoje hekvuf majpopem ve ufdow.",
+            "url": "http://enaoluje.br/kumwotjiz",
+            "content": "Penaaf caomipa guen uhi ur wauj gab pu sewwa oc tihmozsav epozajek nulu bac wajub. Fumog virder wecebe cuwiv cofar kuelikar ow histu ewugieb zof gafwo nehoruuri nifozkow fe videk. Di agugocdi kogikpe docsaulo uni fitharub gijguwzu he vuvific cuusabol utofbo vunwez buhok dib. Wefu ro kouzle owloh fiheciupu emeavo rajkaner zub ozhabel acha rog pi wuono calapa toco jafdif le.",
+            "engine": "qwant",
+            "parsed_url": [
+                "http",
+                "enaoluje.br",
+                "/kumwotjiz",
+                "",
+                "",
+                ""
+            ],
+            "template": "default.html",
+            "engines": [
+                "qwant"
+            ],
+            "positions": [
+                9
+            ],
+            "score": 0.1111111111111111,
+            "category": "general"
+        },
+        {
+            "title": "Lualred llm Hevuk arrob vocor wutde kem.",
+            "url": "http://imerudoca.ch/judfuanu",
+            "content": "Cazo jejhelof anjen wiganhi ejine idisip me et ifuci raj nika cacgof zubziew fu ok roswus. Roew edi arja isjafo hilubsa uvukultuj duc siise kihen cebe wedi fucbirur. Firo upi ehvaci ozatum ipmirida meszaamu recug naku gato lij cak wakno vi tafudpi pac tukun suna. Ko suvjub famuwu jekbum fi eti atwov egetuhak fetofzod lom awobesut jaopaga jinwit cardada ja.",
+            "engine": "qwant",
+            "parsed_url": [
+                "http",
+                "imerudoca.ch",
+                "/judfuanu",
+                "",
+                "",
+                ""
+            ],
+            "template": "default.html",
+            "engines": [
+                "qwant"
+            ],
+            "positions": [
+                10
+            ],
+            "score": 0.1,
+            "category": "general"
+        },
+        {
+            "title": "What are LLMs, and how are they used in generative AI?",
+            "content": "LLMs are large language models that predict the next word based on input text. They are the basis for chatbots like ChatGPT and Bard, but they also face challenges such as bias, accuracy, and scalability.",
+            "url": "https://www.computerworld.com/article/1627101/what-are-large-language-models-and-how-are-they-used-in-generative-ai.html",
+            "engine": "duckduckgo",
+            "parsed_url": [
+                "https",
+                "www.computerworld.com",
+                "/article/1627101/what-are-large-language-models-and-how-are-they-used-in-generative-ai.html",
+                "",
+                "",
+                ""
+            ],
+            "template": "default.html",
+            "engines": [
+                "duckduckgo"
+            ],
+            "positions": [
+                11
+            ],
+            "score": 0.09090909090909091,
+            "category": "general"
+        },
+        {
+            "title": "Large language model | Definition, History, & Facts | Britannica",
+            "content": "Learn about large language model (LLM), a deep-learning algorithm that can perform natural language processing tasks such as text generation, translation, and code generation. Find out the history, mechanisms, uses, and challenges of LLMs.",
+            "url": "https://www.britannica.com/topic/large-language-model",
+            "engine": "duckduckgo",
+            "parsed_url": [
+                "https",
+                "www.britannica.com",
+                "/topic/large-language-model",
+                "",
+                "",
+                ""
+            ],
+            "template": "default.html",
+            "engines": [
+                "duckduckgo"
+            ],
+            "positions": [
+                14
+            ],
+            "score": 0.07142857142857142,
+            "category": "general"
+        },
+        {
+            "title": "LM Studio - Discover, download, and run local LLMs",
+            "content": "LM Studio lets you run LLMs on your laptop, offline and privately. You can download any ggml-compatible model from Hugging Face and use it through the app's Chat UI or a local server.",
+            "url": "https://lmstudio.ai/",
+            "engine": "duckduckgo",
+            "parsed_url": [
+                "https",
+                "lmstudio.ai",
+                "/",
+                "",
+                "",
+                ""
+            ],
+            "template": "default.html",
+            "engines": [
+                "duckduckgo"
+            ],
+            "positions": [
+                15
+            ],
+            "score": 0.06666666666666667,
+            "category": "general"
+        },
+        {
+            "url": "https://www.kimep.kz/school-of-law/en/llm-program/",
+            "title": "\u00bb MASTER OF INTERNATIONAL LAW (LL.M.) School of Law",
+            "content": "The Master of Laws Program at KIMEP University The LL.M. is a one-year, full-time, in person degree program providing specialized knowledge of International Law in two tracks: one for commercial law practitioners and one for those interested in advancing their careers relative to human rights ...",
+            "publishedDate": null,
+            "thumbnail": "",
+            "engine": "brave",
+            "parsed_url": [
+                "https",
+                "www.kimep.kz",
+                "/school-of-law/en/llm-program/",
+                "",
+                "",
+                ""
+            ],
+            "template": "default.html",
+            "engines": [
+                "brave"
+            ],
+            "positions": [
+                16
+            ],
+            "score": 0.0625,
+            "category": "general"
+        },
+        {
+            "url": "https://llm-guide.com/schools/europe/greece",
+            "title": "Top 5 LLM Programs in Greece 2024 | LLM GUIDE",
+            "content": "A global community for prospective LLM students, and a directory of over 700 law schools and counting.",
+            "publishedDate": null,
+            "thumbnail": "",
+            "engine": "brave",
+            "parsed_url": [
+                "https",
+                "llm-guide.com",
+                "/schools/europe/greece",
+                "",
+                "",
+                ""
+            ],
+            "template": "default.html",
+            "engines": [
+                "brave"
+            ],
+            "positions": [
+                17
+            ],
+            "score": 0.058823529411764705,
+            "category": "general"
+        },
+        {
+            "url": "https://law-school.uonbi.ac.ke/programs-content-type/master-lawsllm",
+            "title": "Master of Laws(LLM) | SCHOOL OF LAW (Archived)",
+            "content": "July 21, 2022 - Coursework during the first year shall be assessed on the basis of seminar papers \u00b7 The Master of Laws course is designed for students who are interested in gaining further skills and specializing in specific areas of law. The programme will enable students with a Bachelor\u2019s Degree in law ...",
+            "publishedDate": "2022-07-21T00:00:00",
+            "thumbnail": "",
+            "engine": "brave",
+            "parsed_url": [
+                "https",
+                "law-school.uonbi.ac.ke",
+                "/programs-content-type/master-lawsllm",
+                "",
+                "",
+                ""
+            ],
+            "template": "default.html",
+            "engines": [
+                "brave"
+            ],
+            "positions": [
+                19
+            ],
+            "score": 0.05263157894736842,
+            "category": "general"
+        },
+        {
+            "url": "https://law.asu.edu/degree-programs/llm",
+            "title": "LLM, Master of Laws | ASU | Sandra Day O'Connor College of Law",
+            "content": "A one-year Master of Laws (LLM) degree program is for people who want to expand their legal knowledge or specialize in a legal field.",
+            "publishedDate": null,
+            "thumbnail": "",
+            "engine": "brave",
+            "parsed_url": [
+                "https",
+                "law.asu.edu",
+                "/degree-programs/llm",
+                "",
+                "",
+                ""
+            ],
+            "template": "default.html",
+            "engines": [
+                "brave"
+            ],
+            "positions": [
+                20
+            ],
+            "score": 0.05,
+            "category": "general"
+        },
+        {
+            "title": "What is an LLM? A Guide on Large Language Models and How ... - DataCamp",
+            "content": "LLMs are AI systems that model and process human language using transformer neural networks. Learn the basics of LLMs, their types, advantages, limitations, and applications in this guide.",
+            "url": "https://www.datacamp.com/blog/what-is-an-llm-a-guide-on-large-language-models",
+            "engine": "duckduckgo",
+            "parsed_url": [
+                "https",
+                "www.datacamp.com",
+                "/blog/what-is-an-llm-a-guide-on-large-language-models",
+                "",
+                "",
+                ""
+            ],
+            "template": "default.html",
+            "engines": [
+                "duckduckgo"
+            ],
+            "positions": [
+                16
+            ],
+            "score": 0.0625,
+            "category": "general"
+        },
+        {
+            "title": "A Comprehensive Overview of Large Language Models - arXiv.org",
+            "content": "LLM research, it has become considerably challenging to perceive the bigger picture of the advances in this direction. Considering the rapidly emerging plethora of literature on LLMs, it is imperative that the research community is able to benefit from a concise yet comprehensive overview of the recent developments in this field.",
+            "url": "https://arxiv.org/pdf/2307.06435",
+            "engine": "duckduckgo",
+            "parsed_url": [
+                "https",
+                "arxiv.org",
+                "/pdf/2307.06435",
+                "",
+                "",
+                ""
+            ],
+            "template": "default.html",
+            "engines": [
+                "duckduckgo"
+            ],
+            "positions": [
+                17
+            ],
+            "score": 0.058823529411764705,
+            "category": "general"
+        },
+        {
+            "title": "[2402.06196] Large Language Models: A Survey - arXiv.org",
+            "content": "A review of the most prominent Large Language Models (LLMs), their characteristics, contributions and limitations, and the techniques and datasets for building and evaluating them. The paper also discusses the open challenges and future research directions in the LLM area.",
+            "url": "https://arxiv.org/abs/2402.06196",
+            "engine": "duckduckgo",
+            "parsed_url": [
+                "https",
+                "arxiv.org",
+                "/abs/2402.06196",
+                "",
+                "",
+                ""
+            ],
+            "template": "default.html",
+            "engines": [
+                "duckduckgo"
+            ],
+            "positions": [
+                18
+            ],
+            "score": 0.05555555555555555,
+            "category": "general"
+        },
+        {
+            "title": "What is a large language model (LLM)? - Elastic",
+            "content": "Learn what a large language model (LLM) is, how it works, and what it can do. LLMs are deep learning algorithms that can perform various natural language processing tasks, such as translation, chatbots, and code generation.",
+            "url": "https://www.elastic.co/what-is/large-language-models",
+            "engine": "duckduckgo",
+            "parsed_url": [
+                "https",
+                "www.elastic.co",
+                "/what-is/large-language-models",
+                "",
+                "",
+                ""
+            ],
+            "template": "default.html",
+            "engines": [
+                "duckduckgo"
+            ],
+            "positions": [
+                19
+            ],
+            "score": 0.05263157894736842,
+            "category": "general"
+        },
+        {
+            "title": "Generation with LLMs - Hugging Face",
+            "content": "If you're interested in basic LLM usage, our high-level Pipeline interface is a great starting point. However, LLMs often require advanced features like quantization and fine control of the token selection step, which is best done through generate().Autoregressive generation with LLMs is also resource-intensive and should be executed on a GPU for adequate throughput.",
+            "url": "https://huggingface.co/docs/transformers/main/llm_tutorial",
+            "engine": "duckduckgo",
+            "parsed_url": [
+                "https",
+                "huggingface.co",
+                "/docs/transformers/main/llm_tutorial",
+                "",
+                "",
+                ""
+            ],
+            "template": "default.html",
+            "engines": [
+                "duckduckgo"
+            ],
+            "positions": [
+                21
+            ],
+            "score": 0.047619047619047616,
+            "category": "general"
+        },
+        {
+            "title": "Wikipedia:Large language models - Wikipedia",
+            "content": "While large language models (colloquially termed \"AI chatbots\" in some contexts) can be very useful, machine-generated text (much like human-generated text) can contain errors or flaws, or be outright useless. Specifically, asking an LLM to \"write a Wikipedia article\" can sometimes cause the output to be outright fabrication, complete with ...",
+            "url": "https://en.wikipedia.org/wiki/Wikipedia:Large_language_models",
+            "engine": "duckduckgo",
+            "parsed_url": [
+                "https",
+                "en.wikipedia.org",
+                "/wiki/Wikipedia:Large_language_models",
+                "",
+                "",
+                ""
+            ],
+            "template": "default.html",
+            "engines": [
+                "duckduckgo"
+            ],
+            "positions": [
+                22
+            ],
+            "score": 0.045454545454545456,
+            "category": "general"
+        }
+    ],
+    "answers": [
+        "The Master of Laws (LL. M.) Program allows students to choose a field of concentration from the following areas: Intellectual Property, International Corporate and Business Law, International Economic Law, and Law International Human Rights Law."
+    ],
+    "corrections": [],
+    "infoboxes": [
+        {
+            "infobox": "Master of Laws",
+            "id": "https://en.wikipedia.org/wiki/Master_of_Laws",
+            "content": "academic master's degree in law",
+            "img_src": null,
+            "urls": [
+                {
+                    "title": "Wikipedia (en)",
+                    "url": "https://en.wikipedia.org/wiki/Master_of_Laws"
+                },
+                {
+                    "title": "Wikidata",
+                    "url": "http://www.wikidata.org/entity/Q754848"
+                }
+            ],
+            "attributes": [],
+            "engine": "wikidata",
+            "engines": [
+                "wikidata"
+            ]
+        }
+    ],
+    "suggestions": [
+        "LLM AI",
+        "LLM machine learning",
+        "LLM meaning machine learning",
+        "LLM examples",
+        "LLM model",
+        "LLM Law",
+        "LLM software",
+        "LLM ChatGPT"
+    ],
+    "unresponsive_engines": []
+}
